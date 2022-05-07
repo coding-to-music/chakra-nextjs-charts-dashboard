@@ -1,11 +1,19 @@
 {
-  "name": "nextjs-chakra-dashboard",
+  "name": "chakra-nextjs-charts-dashboard",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.2",

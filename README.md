@@ -1,14 +1,47 @@
+# chakra-nextjs-charts-dashboard
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/chakra-nextjs-charts-dashboard
+
+https://chakra-nextjs-charts-dashboard.vercel.app
+
+by Benjamin Carlson https://github.com/bjcarlson42
+
+https://chakra-nextjs-dashboard.vercel.app/dashboard
+
+https://github.com/bjcarlson42/chakra-nextjs-dashboard
+
+## Environment Values
+
+```java
+none
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/chakra-nextjs-charts-dashboard.git
+git push -u origin main
+vercel --prod --confirm
+```
+
 # Dashboard UI
 
 Built using:
 
-| Name | Version | Docs/GitHub/Website |
-| ----------- | ----------- | ----------- |
-| Chakra UI | 1.6.2 | https://chakra-ui.com/ |
-| ChartJS   | 3.3.0 | https://www.chartjs.org/docs/master/ |
-| React  Icons (Feather) | 4.28.0 | https://react-icons.github.io/react-icons/icons?name=fi |
-| Next.js | 3.0.3 | https://nextjs.org/docs/getting-started |
-| React Chart 2 | - | http://reactchartjs.github.io/react-chartjs-2/#/ |
+| Name                  | Version | Docs/GitHub/Website                                     |
+| --------------------- | ------- | ------------------------------------------------------- |
+| Chakra UI             | 1.6.2   | https://chakra-ui.com/                                  |
+| ChartJS               | 3.3.0   | https://www.chartjs.org/docs/master/                    |
+| React Icons (Feather) | 4.28.0  | https://react-icons.github.io/react-icons/icons?name=fi |
+| Next.js               | 3.0.3   | https://nextjs.org/docs/getting-started                 |
+| React Chart 2         | -       | http://reactchartjs.github.io/react-chartjs-2/#/        |
 
 The design: https://dribbble.com/shots/15640240-The-Rise-dashboard-activity
 
